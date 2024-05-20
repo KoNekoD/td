@@ -13,13 +13,13 @@ import (
 
 	"github.com/gotd/neo"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/mt"
-	"github.com/gotd/td/rpc"
-	"github.com/gotd/td/tdsync"
-	"github.com/gotd/td/testutil"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tmap"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/mt"
+	"github.com/KoNekoD/td/rpc"
+	"github.com/KoNekoD/td/tdsync"
+	"github.com/KoNekoD/td/testutil"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tmap"
 )
 
 type testUpdateHandler struct {

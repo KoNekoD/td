@@ -6,8 +6,8 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/atomic"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/tdsync"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/tdsync"
 )
 
 // ErrConnDead means that connection is closed and can't be used anymore.

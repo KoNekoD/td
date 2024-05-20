@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/mt"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/mt"
 )
 
 type badMessageError struct {

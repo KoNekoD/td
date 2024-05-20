@@ -6,8 +6,8 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgerr"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgerr"
 )
 
 type block struct {

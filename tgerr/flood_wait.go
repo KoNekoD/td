@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/gotd/td/clock"
+	"github.com/KoNekoD/td/clock"
 )
 
 // ErrFloodWait is error type of "FLOOD_WAIT" error.

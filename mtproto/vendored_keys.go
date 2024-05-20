@@ -5,8 +5,8 @@ import (
 	_ "embed"
 	"sync"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/exchange"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/exchange"
 )
 
 var (

@@ -6,8 +6,8 @@ import (
 	"go.opentelemetry.io/otel/trace"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/tg"
 )
 
 // API is the interface which contains

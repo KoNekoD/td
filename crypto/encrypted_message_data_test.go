@@ -3,7 +3,7 @@ package crypto
 import (
 	"testing"
 
-	"github.com/gotd/td/bin"
+	"github.com/KoNekoD/td/bin"
 
 	"github.com/stretchr/testify/require"
 )

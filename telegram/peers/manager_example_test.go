@@ -6,10 +6,10 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/telegram/peers"
-	"github.com/gotd/td/telegram/updates"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/telegram/peers"
+	"github.com/KoNekoD/td/telegram/updates"
+	"github.com/KoNekoD/td/tg"
 )
 
 func ExampleManager() {

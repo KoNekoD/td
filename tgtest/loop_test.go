@@ -11,14 +11,14 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap/zaptest"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/session"
-	"github.com/gotd/td/tdsync"
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgtest/cluster"
-	"github.com/gotd/td/tgtest/services"
-	"github.com/gotd/td/tgtest/services/config"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/session"
+	"github.com/KoNekoD/td/tdsync"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgtest/cluster"
+	"github.com/KoNekoD/td/tgtest/services"
+	"github.com/KoNekoD/td/tgtest/services/config"
 )
 
 func TestSessionHandle(t *testing.T) {

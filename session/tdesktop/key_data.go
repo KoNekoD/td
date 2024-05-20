@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/crypto"
+	"github.com/KoNekoD/td/crypto"
 )
 
 type keyData struct {

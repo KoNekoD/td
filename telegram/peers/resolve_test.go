@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/tg"
 )
 
 func TestManager_findPeerClass(t *testing.T) {

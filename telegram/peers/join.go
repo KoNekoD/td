@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/telegram/internal/deeplink"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/internal/deeplink"
+	"github.com/KoNekoD/td/tg"
 )
 
 type updateWithChats interface {

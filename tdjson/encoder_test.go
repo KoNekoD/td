@@ -9,9 +9,9 @@ import (
 	"github.com/go-faster/jx"
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/tdapi"
-	"github.com/gotd/td/tdjson"
-	"github.com/gotd/td/tdp"
+	"github.com/KoNekoD/td/tdapi"
+	"github.com/KoNekoD/td/tdjson"
+	"github.com/KoNekoD/td/tdp"
 )
 
 func TestEncodeDecode(t *testing.T) {

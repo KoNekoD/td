@@ -7,9 +7,9 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/multierr"
 
-	"github.com/gotd/td/constant"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgerr"
+	"github.com/KoNekoD/td/constant"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgerr"
 )
 
 // https://core.telegram.org/api/files#uploading-files

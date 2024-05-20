@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-faster/xor"
 
-	"github.com/gotd/td/crypto"
+	"github.com/KoNekoD/td/crypto"
 )
 
 // SRP is client implementation of Secure Remote Password protocol.

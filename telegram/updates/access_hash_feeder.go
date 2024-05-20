@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/net/context"
 
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/tg"
 )
 
 func (s *internalState) saveChannelHashes(ctx context.Context, chats []tg.ChatClass) {

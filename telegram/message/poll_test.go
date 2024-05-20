@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/telegram/message/styling"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/telegram/message/styling"
+	"github.com/KoNekoD/td/tg"
 )
 
 func TestPoll(t *testing.T) {

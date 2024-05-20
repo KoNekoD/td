@@ -11,15 +11,15 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap/zaptest"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/mtproto"
-	"github.com/gotd/td/pool"
-	"github.com/gotd/td/rpc"
-	"github.com/gotd/td/tdsync"
-	"github.com/gotd/td/telegram/internal/manager"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgerr"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/mtproto"
+	"github.com/KoNekoD/td/pool"
+	"github.com/KoNekoD/td/rpc"
+	"github.com/KoNekoD/td/tdsync"
+	"github.com/KoNekoD/td/telegram/internal/manager"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgerr"
 )
 
 type migrationTestHandler func(id int64, dc int, body bin.Encoder) (bin.Encoder, error)

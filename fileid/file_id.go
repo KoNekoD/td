@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
+	"github.com/KoNekoD/td/bin"
 )
 
 // FileID represents parsed Telegram Bot API file_id.

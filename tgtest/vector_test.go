@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/testutil"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/testutil"
+	"github.com/KoNekoD/td/tg"
 )
 
 type badEncoder struct{}

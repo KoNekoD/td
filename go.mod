@@ -1,4 +1,4 @@
-module github.com/gotd/td
+module github.com/KoNekoD/td
 
 go 1.21
 

@@ -7,8 +7,8 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/telegram/dcs"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/telegram/dcs"
 )
 
 func ExampleDialFunc() {

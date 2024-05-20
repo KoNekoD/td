@@ -5,8 +5,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/constant"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/constant"
+	"github.com/KoNekoD/td/tg"
 )
 
 // Available MTProto default server addresses.

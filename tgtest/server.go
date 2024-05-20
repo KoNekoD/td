@@ -11,13 +11,13 @@ import (
 	"go.uber.org/zap"
 	"nhooyr.io/websocket"
 
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/exchange"
-	"github.com/gotd/td/mtproto"
-	"github.com/gotd/td/tdsync"
-	"github.com/gotd/td/tmap"
-	"github.com/gotd/td/transport"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/exchange"
+	"github.com/KoNekoD/td/mtproto"
+	"github.com/KoNekoD/td/tdsync"
+	"github.com/KoNekoD/td/tmap"
+	"github.com/KoNekoD/td/transport"
 )
 
 // Server is a MTProto server structure.

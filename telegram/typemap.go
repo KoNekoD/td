@@ -3,10 +3,10 @@ package telegram
 import (
 	"sync"
 
-	"github.com/gotd/td/mt"
-	"github.com/gotd/td/proto"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tmap"
+	"github.com/KoNekoD/td/mt"
+	"github.com/KoNekoD/td/proto"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tmap"
 )
 
 // Port is default port used by telegram.

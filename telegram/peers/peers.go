@@ -9,8 +9,8 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/constant"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/constant"
+	"github.com/KoNekoD/td/tg"
 )
 
 // Peer represents generic peer.

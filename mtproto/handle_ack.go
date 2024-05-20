@@ -4,8 +4,8 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/mt"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/mt"
 )
 
 func (c *Conn) handleAck(b *bin.Buffer) error {

@@ -3,7 +3,7 @@ This project is an attempt to reproduce connection timeout that causes gotd to h
 > [!WARNING]
 > Currently I'm unable to reproduce the issue.
 
-Referenced issue: https://github.com/gotd/td/issues/1030
+Referenced issue: https://github.com/KoNekoD/td/issues/1030
 
 Dependencies:
 - docker

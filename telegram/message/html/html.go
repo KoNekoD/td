@@ -7,9 +7,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/gotd/td/telegram/message/entity"
-	"github.com/gotd/td/telegram/message/styling"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/message/entity"
+	"github.com/KoNekoD/td/telegram/message/styling"
+	"github.com/KoNekoD/td/tg"
 )
 
 // Bytes reads HTML from given byte slice and returns styling option

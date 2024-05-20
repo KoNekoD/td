@@ -9,8 +9,8 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/tg"
 )
 
 var _ telegram.UpdateHandler = (*Manager)(nil)

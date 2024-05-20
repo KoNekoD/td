@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/testutil"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/testutil"
 )
 
 func TestDecrypt(t *testing.T) {

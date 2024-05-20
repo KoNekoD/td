@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/tg"
 )
 
 // Audio creates new AudioDocumentBuilder to create audio attachment.

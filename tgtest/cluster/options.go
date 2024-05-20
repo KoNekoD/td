@@ -5,10 +5,10 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/telegram/dcs"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/transport"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/telegram/dcs"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/transport"
 )
 
 // Options of Cluster.

@@ -13,9 +13,9 @@ import (
 
 	"github.com/gotd/neo"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/mt"
-	"github.com/gotd/td/testutil"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/mt"
+	"github.com/KoNekoD/td/testutil"
 )
 
 type request struct {

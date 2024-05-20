@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gotd/td/telegram/query/internal/genutil"
+	"github.com/KoNekoD/td/telegram/query/internal/genutil"
 )
 
 // Param represents request parameter.

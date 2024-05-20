@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/telegram/message/peer"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/message/peer"
+	"github.com/KoNekoD/td/tg"
 )
 
 // DeleteBuilder is an intermediate builder to delete messages.

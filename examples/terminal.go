@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/term"
 
-	"github.com/gotd/td/telegram/auth"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/auth"
+	"github.com/KoNekoD/td/tg"
 )
 
 // Terminal implements auth.UserAuthenticator prompting the terminal for

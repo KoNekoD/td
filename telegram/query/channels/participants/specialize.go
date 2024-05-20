@@ -1,8 +1,8 @@
 package participants
 
 import (
-	"github.com/gotd/td/telegram/query/photos"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/query/photos"
+	"github.com/KoNekoD/td/tg"
 )
 
 // UserPhotos returns new user photo query builder for participant.

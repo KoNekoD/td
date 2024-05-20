@@ -9,13 +9,13 @@ import (
 	"go.opentelemetry.io/otel/trace"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/exchange"
-	"github.com/gotd/td/mtproto"
-	"github.com/gotd/td/proto"
-	"github.com/gotd/td/telegram/dcs"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/exchange"
+	"github.com/KoNekoD/td/mtproto"
+	"github.com/KoNekoD/td/proto"
+	"github.com/KoNekoD/td/telegram/dcs"
+	"github.com/KoNekoD/td/tg"
 )
 
 type (

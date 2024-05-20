@@ -7,9 +7,9 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/crypto/srp"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/crypto/srp"
+	"github.com/KoNekoD/td/tg"
 )
 
 // PasswordHash computes password hash to log in.

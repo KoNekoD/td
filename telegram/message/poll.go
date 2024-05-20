@@ -7,10 +7,10 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/telegram/message/entity"
-	"github.com/gotd/td/telegram/message/styling"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/telegram/message/entity"
+	"github.com/KoNekoD/td/telegram/message/styling"
+	"github.com/KoNekoD/td/tg"
 )
 
 type pollAnswerBuilder struct {

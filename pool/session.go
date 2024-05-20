@@ -3,8 +3,8 @@ package pool
 import (
 	"sync"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/mtproto"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/mtproto"
 )
 
 // Session represents DC session.

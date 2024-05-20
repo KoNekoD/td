@@ -6,9 +6,9 @@ import (
 
 	"github.com/cenkalti/backoff/v4"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgerr"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgerr"
 )
 
 type retryInvoker struct {

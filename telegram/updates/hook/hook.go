@@ -6,9 +6,9 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/tg"
 )
 
 // UpdateHook middleware is called on each tg.UpdatesClass method result.

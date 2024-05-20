@@ -24,13 +24,13 @@ import (
 	"golang.org/x/time/rate"
 	lj "gopkg.in/natefinch/lumberjack.v2"
 
-	"github.com/gotd/td/examples"
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/telegram/auth"
-	"github.com/gotd/td/telegram/message/peer"
-	"github.com/gotd/td/telegram/query"
-	"github.com/gotd/td/telegram/updates"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/examples"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/telegram/auth"
+	"github.com/KoNekoD/td/telegram/message/peer"
+	"github.com/KoNekoD/td/telegram/query"
+	"github.com/KoNekoD/td/telegram/updates"
+	"github.com/KoNekoD/td/tg"
 )
 
 func sessionFolder(phone string) string {

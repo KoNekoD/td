@@ -7,11 +7,11 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/mtproto"
-	"github.com/gotd/td/pool"
-	"github.com/gotd/td/session"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/mtproto"
+	"github.com/KoNekoD/td/pool"
+	"github.com/KoNekoD/td/session"
+	"github.com/KoNekoD/td/tg"
 )
 
 func (c *Client) restoreConnection(ctx context.Context) error {

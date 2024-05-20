@@ -8,8 +8,8 @@ import (
 
 	"github.com/gotd/contrib/bg"
 
-	"github.com/gotd/td/examples"
-	"github.com/gotd/td/telegram"
+	"github.com/KoNekoD/td/examples"
+	"github.com/KoNekoD/td/telegram"
 )
 
 func main() {

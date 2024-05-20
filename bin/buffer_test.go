@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/testutil"
+	"github.com/KoNekoD/td/testutil"
 )
 
 func TestExpandReset(t *testing.T) {

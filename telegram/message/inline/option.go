@@ -4,8 +4,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/tg"
 )
 
 type resultPageBuilder struct {

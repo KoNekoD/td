@@ -1,8 +1,8 @@
 package members
 
 import (
-	"github.com/gotd/td/telegram/peers"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/peers"
+	"github.com/KoNekoD/td/tg"
 )
 
 // ChannelQuery is builder for channel members querying.

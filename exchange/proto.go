@@ -6,11 +6,11 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/proto"
-	"github.com/gotd/td/proto/codec"
-	"github.com/gotd/td/transport"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/proto"
+	"github.com/KoNekoD/td/proto/codec"
+	"github.com/KoNekoD/td/transport"
 )
 
 type unencryptedWriter struct {

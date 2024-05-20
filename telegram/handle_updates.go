@@ -6,9 +6,9 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/telegram/internal/upconv"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/telegram/internal/upconv"
+	"github.com/KoNekoD/td/tg"
 )
 
 func (c *Client) updateInterceptor(updates ...tg.UpdateClass) {

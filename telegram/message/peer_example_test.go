@@ -6,10 +6,10 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/telegram/message"
-	"github.com/gotd/td/telegram/message/peer"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/telegram/message"
+	"github.com/KoNekoD/td/telegram/message/peer"
+	"github.com/KoNekoD/td/tg"
 )
 
 func resolve(ctx context.Context) error {

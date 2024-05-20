@@ -9,10 +9,10 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/telegram/message"
-	"github.com/gotd/td/telegram/message/unpack"
-	"github.com/gotd/td/telegram/uploader"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/message"
+	"github.com/KoNekoD/td/telegram/message/unpack"
+	"github.com/KoNekoD/td/telegram/uploader"
+	"github.com/KoNekoD/td/tg"
 )
 
 // upload lists inputDir and uploads all ".mp4" files to saved gifs.

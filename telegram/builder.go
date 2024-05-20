@@ -13,12 +13,12 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/net/proxy"
 
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/session"
-	"github.com/gotd/td/telegram/auth"
-	"github.com/gotd/td/telegram/dcs"
-	"github.com/gotd/td/tgerr"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/session"
+	"github.com/KoNekoD/td/telegram/auth"
+	"github.com/KoNekoD/td/telegram/dcs"
+	"github.com/KoNekoD/td/tgerr"
 )
 
 func sessionDir() (string, error) {

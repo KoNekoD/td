@@ -5,8 +5,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/testutil"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/testutil"
 )
 
 func genMessageAndAuthKeys() (Key, bin.Int128) {

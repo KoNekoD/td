@@ -5,10 +5,10 @@ import (
 
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/exchange"
-	"github.com/gotd/td/proto/codec"
-	"github.com/gotd/td/transport"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/exchange"
+	"github.com/KoNekoD/td/proto/codec"
+	"github.com/KoNekoD/td/transport"
 )
 
 func (s *Server) read(ctx context.Context, conn transport.Conn, b *bin.Buffer) error {

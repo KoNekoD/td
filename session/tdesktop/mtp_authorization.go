@@ -3,8 +3,8 @@ package tdesktop
 import (
 	"github.com/go-faster/errors"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/crypto"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/crypto"
 )
 
 // MTPAuthorization is a Telegram Desktop storage structure which stores MTProto session info.

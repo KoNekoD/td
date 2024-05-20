@@ -1,10 +1,10 @@
 package inline
 
 import (
-	"github.com/gotd/td/telegram/message/entity"
-	"github.com/gotd/td/telegram/message/markup"
-	"github.com/gotd/td/telegram/message/styling"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/telegram/message/entity"
+	"github.com/KoNekoD/td/telegram/message/markup"
+	"github.com/KoNekoD/td/telegram/message/styling"
+	"github.com/KoNekoD/td/tg"
 )
 
 // MessageMediaAutoBuilder is a builder of inline result text message.

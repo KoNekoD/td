@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/gotd/td/tg"
-	"github.com/gotd/td/tgmock"
+	"github.com/KoNekoD/td/tg"
+	"github.com/KoNekoD/td/tgmock"
 )
 
 func generateBlocked(count int) []tg.PeerBlocked {

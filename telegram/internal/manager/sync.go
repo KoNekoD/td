@@ -3,7 +3,7 @@ package manager
 import (
 	"sync/atomic"
 
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/tg"
 )
 
 // AtomicConfig is atomic tg.Config.

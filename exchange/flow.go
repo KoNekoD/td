@@ -8,10 +8,10 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/clock"
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/proto"
-	"github.com/gotd/td/transport"
+	"github.com/KoNekoD/td/clock"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/proto"
+	"github.com/KoNekoD/td/transport"
 )
 
 // DefaultTimeout is default WithTimeout parameter value.

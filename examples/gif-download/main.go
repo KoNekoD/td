@@ -18,12 +18,12 @@ import (
 	"golang.org/x/sync/errgroup"
 	"golang.org/x/time/rate"
 
-	"github.com/gotd/td/examples"
-	"github.com/gotd/td/telegram"
-	"github.com/gotd/td/telegram/auth"
-	"github.com/gotd/td/telegram/downloader"
-	"github.com/gotd/td/telegram/query/hasher"
-	"github.com/gotd/td/tg"
+	"github.com/KoNekoD/td/examples"
+	"github.com/KoNekoD/td/telegram"
+	"github.com/KoNekoD/td/telegram/auth"
+	"github.com/KoNekoD/td/telegram/downloader"
+	"github.com/KoNekoD/td/telegram/query/hasher"
+	"github.com/KoNekoD/td/tg"
 )
 
 func run(ctx context.Context) error {

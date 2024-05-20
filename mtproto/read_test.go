@@ -12,11 +12,11 @@ import (
 
 	"github.com/gotd/neo"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/proto"
-	"github.com/gotd/td/tdsync"
-	"github.com/gotd/td/testutil"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/proto"
+	"github.com/KoNekoD/td/tdsync"
+	"github.com/KoNekoD/td/testutil"
 )
 
 func TestCheckMessageID(t *testing.T) {

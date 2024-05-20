@@ -6,9 +6,9 @@ import (
 	"github.com/go-faster/errors"
 	"go.uber.org/zap"
 
-	"github.com/gotd/td/bin"
-	"github.com/gotd/td/mt"
-	"github.com/gotd/td/rpc"
+	"github.com/KoNekoD/td/bin"
+	"github.com/KoNekoD/td/mt"
+	"github.com/KoNekoD/td/rpc"
 )
 
 // Invoke sends input and decodes result into output.

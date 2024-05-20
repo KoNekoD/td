@@ -7,12 +7,12 @@ import (
 	"github.com/go-faster/errors"
 	"nhooyr.io/websocket"
 
-	"github.com/gotd/td/crypto"
-	"github.com/gotd/td/mtproxy"
-	"github.com/gotd/td/mtproxy/obfuscator"
-	"github.com/gotd/td/proto/codec"
-	"github.com/gotd/td/transport"
-	"github.com/gotd/td/wsutil"
+	"github.com/KoNekoD/td/crypto"
+	"github.com/KoNekoD/td/mtproxy"
+	"github.com/KoNekoD/td/mtproxy/obfuscator"
+	"github.com/KoNekoD/td/proto/codec"
+	"github.com/KoNekoD/td/transport"
+	"github.com/KoNekoD/td/wsutil"
 )
 
 var _ Resolver = ws{}
